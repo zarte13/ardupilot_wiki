@@ -19,6 +19,7 @@ List of DroneCAN ESCs
 - :ref:`AM32 DroneCAN ESCs <common-am32-escs>`
 - :ref:`Hargrave Technologies DroneCAN ESCs <common-hargrave-dronecan-escs>`
 - :ref:`Hobbywing CAN ESCs <common-hobbywing-dronecan-esc>`
+- `Mad Components DroneCAN ESCs <https://mad-motor.com/collections/square-wave>`__
 - `Holybro Kotleta20 <https://holybro.com/products/kotleta20>`__
 - :ref:`KDE UVC ESCs <common-kde-can-escs>`
 - `Zubax Mitochondrik <https://zubax.com/products/mitochondrik>`__
